@@ -46,6 +46,5 @@ This portfolio is a comprehensive compilation of five key tasks designed to demo
 
 ## 🔗 Quick Links
 
-  * **Main Report:** [Project\_Report.pdf](https://www.google.com/search?q=./report/Project_Report.pdf)
   * **LinkedIn Profile:** [linkedin.com/in/snehaldixitofficial](https://www.google.com/search?q=https://www.linkedin.com/in/snehaldixitofficial) 
   * **GitHub Profile:** [github.com/snehaldixitofficial](https://github.com/snehaldixitofficial) 
