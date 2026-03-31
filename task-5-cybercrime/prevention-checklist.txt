@@ -1,0 +1,15 @@
+Part B - Prevention Checklist
+1. Basic Online Safety
+* Always check the sender before clicking any link.
+* Never share your OTPs, passwords, and personal information.
+* Make strong passwords, and use different passwords for different accounts.
+* Switch on two-factor authentication on apps and sites.
+* Skip any shady or unknown links.
+2. UPI and Money Tips
+* Ignore payment requests from strangers.
+* Always verify the UPI ID and who you're sending to before hitting send.
+3. How to Report
+* Go to https://cybercrime.gov.in to file a report.
+* For money scams, call 1930 helpline right away.
+
+
